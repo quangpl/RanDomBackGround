@@ -12,16 +12,8 @@
         android:layout_height="495dp"
         android:layout_weight="2"
         android:gravity="center"
-        android:text="TextView"
+        android:text="RanDomBG"
         android:textColor="#ff0000"
         android:textSize="120px" />
 
-    <Switch
-        android:id="@+id/switch1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_weight="1"
-   android:textAlignment="center"
-        android:text="Wifi"
-        android:textSize="90px" />
 </LinearLayout>
